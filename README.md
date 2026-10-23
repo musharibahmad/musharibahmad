@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm **Musharib**, a Software Engineering student at the **University of Central Punjab, Lahore** (3rd semester). I'm early in my journey — building my foundation in Python and Object-Oriented Programming, and actively learning Data Structures, Algorithms, and modern web development stacks. Right now I'm focused on turning classroom concepts into real, working projects instead of just theory.
+I'm **Musharib**, a Software Engineering student at the **University of Central Punjab, Lahore** (5th semester). I'm early in my journey — building my foundation in Python and Object-Oriented Programming, and actively learning Data Structures, Algorithms, and modern web development stacks. Right now I'm focused on turning classroom concepts into real, working projects instead of just theory.
 
 <br/>
 
